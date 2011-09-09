@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Restricted Files"
+AuthUserFile /Users/didier/Sites/ic3/comments/password
+Require user jack
